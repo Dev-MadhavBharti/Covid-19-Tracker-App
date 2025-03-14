@@ -1,0 +1,1 @@
+ C:\\Users\\madha\\Desktop\\Flutterprojects\\covid_tracker\\.dart_tool\\flutter_build\\8f2a3d1adc1a326574a188f75c0bbcc3\\native_assets.yaml: 
